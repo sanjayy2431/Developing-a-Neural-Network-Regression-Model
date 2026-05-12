@@ -98,12 +98,11 @@ class NeuralNet(nn.Module):
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
-
-<img width="314" height="36" alt="image" src="https://github.com/user-attachments/assets/f470ac97-35ab-4bba-bf83-9de76ed523d7" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/2139e46d-7819-40a5-bc85-10bffc5c8705" />
 
 
 ### New Sample Data Prediction
-![Uploading image.png…]()
+<img width="314" height="36" alt="image" src="https://github.com/user-attachments/assets/f470ac97-35ab-4bba-bf83-9de76ed523d7" />
 
 
 
