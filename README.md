@@ -91,20 +91,20 @@ class NeuralNet(nn.Module):
 ```
 
 ### Dataset Information
+<img width="201" height="259" alt="image" src="https://github.com/user-attachments/assets/4d6a31a1-f02d-49f6-a9ca-30a881fb8906" />
 
-<img width="465" height="640" alt="Screenshot 2026-04-24 111735" src="<img width="201" height="259" alt="image" src="https://github.com/user-attachments/assets/37ebf123-8441-4be9-8d06-5268c07ba009" />
-" />
 
 
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-<img width="871" height="628" alt="Screenshot 2026-04-24 112038" src="https://github.com/user-attachments/assets/976bbabb-f209-4725-a127-445e78537b5d" />
+<img width="314" height="36" alt="image" src="https://github.com/user-attachments/assets/f470ac97-35ab-4bba-bf83-9de76ed523d7" />
+
 
 ### New Sample Data Prediction
+![Uploading image.png…]()
 
-<img width="861" height="601" alt="image" src="https://github.com/user-attachments/assets/89756f21-a1e6-45fc-86e0-c67b964b08fc" />
 
 
 
