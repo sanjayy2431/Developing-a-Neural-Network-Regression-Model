@@ -92,7 +92,8 @@ class NeuralNet(nn.Module):
 
 ### Dataset Information
 
-<img width="465" height="640" alt="Screenshot 2026-04-24 111735" src="https://github.com/user-attachments/assets/d3c69da6-4f87-410d-9329-89e38677aee4" />
+<img width="465" height="640" alt="Screenshot 2026-04-24 111735" src="<img width="201" height="259" alt="image" src="https://github.com/user-attachments/assets/37ebf123-8441-4be9-8d06-5268c07ba009" />
+" />
 
 
 ### OUTPUT
